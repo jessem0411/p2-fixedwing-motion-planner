@@ -1,0 +1,8 @@
+name: p2-fixedwing-motion-planner-490-iar-team2
+channels:
+    - conda-forge
+    - defaults
+dependencies:
+    - matplotlib
+    - numpy
+    - scipy
